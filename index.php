@@ -1,6 +1,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>North South Venture</title>
+<title>Hub</title>
 <link href="css/main.css" rel="stylesheet" type="text/css" />
 <link href="css/skdslider.css" rel="stylesheet">
 <script src="/javascripts/jquery-1.10.2.js"></script>
